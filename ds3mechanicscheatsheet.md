@@ -705,7 +705,7 @@ Ashen Estus Flask +10 will recover 100% FP up to 27 ATT, and up to 31 ATT with A
 |   Carthus Beacon    |      3-5 consecutive attacks      |            7.5% to 15%             |
 | Floyd's Sword Ring  |             > 99% HP              |          10% (8% in PVP)           |
 | Pontiff's Right Eye |     3-15 depending on weapon      | 3% to 6% to 9% depending on weapon |
-|    Flynn's Ring     | weight while under 30% Equip Load |             1% to 15%              |
+|    Flynn's Ring     | weight while under 30 units |             1% (at 29 unites) to 15% (under 2.5 units)              |
 | Red Tearstone Ring  |             < 20% HP              |                20%                 |
 |    Morion Blade     |             < 20% HP              |    20% (can equip two for 40%)     |
 |     Hornet Ring     |          Critical Attack          | varies by weapon/Riposte/Backstab  |
